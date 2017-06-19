@@ -1,6 +1,7 @@
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
 ## Latar Belakang
 Latar Belakang pendidikan saya yaitu teknik. Waktu SMK saya belajar di jurusan Teknik Komputer dan Jaringan, kuliah saya di Teknik Informatika.
+Saya lebih sering belajar networking saat kuliah makanya ilmu saya dalam hal programming masih minim.
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
